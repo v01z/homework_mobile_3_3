@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Books.js</file>
+        <file>icons/linux_sea.png</file>
+        <file>icons/lospinozo_crash_course.png</file>
+        <file>icons/manual_of_freediving.png</file>
+        <file>icons/max_schlee_qt_5_10.png</file>
+        <file>icons/the_third_book_of_sanskrit.png</file>
+        <file>icons/latein_deutsch.png</file>
+        <file>icons/freebsd_handbook.png</file>
+        <file>icons/linux_kernel_development.png</file>
+    </qresource>
+</RCC>
